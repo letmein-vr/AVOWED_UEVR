@@ -4,6 +4,8 @@ A full motion-controller VR conversion of Avowed for UEVR. It has visible hands 
 
 This profile is built on **jbusfield's original Avowed UEVR mod**, [jbusfield/AV_UEVR](https://github.com/jbusfield/AV_UEVR), and his uevrlib framework. Special thanks to praydog, jbusfield, markmon and joeyhodge!
 
+![Avowed VR](screenshots/avowedvr.png)
+
 ## IMPORTANT!
 
 - My custom UEVR build is required. It is attached to the [releases](https://github.com/letmein-vr/AVOWED_UEVR/releases) of this repo as `UEVR.zip`, next to the profile (`Avowed-Win64-Shipping.zip`). It includes the fixes needed for the latest Avowed patch.
