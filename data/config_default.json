@@ -1,5 +1,5 @@
 {
-    "active_profile": 2,
+    "active_profile": 1,
     "attachmentsWhenActive": 1,
     "attachmentsWhenActivePriority": "0",
     "handsWhenActive": 1,
@@ -27,11 +27,10 @@
     "rightArmWhenActivePriority": "0",
     "rightAttachmentWhenActive": 1,
     "rightAttachmentWhenActivePriority": "0",
-    "uevr_ik_animation_mesh": "",
     "uevr_input_config_adjustForAnimation": false,
     "uevr_input_config_adjustForEyeOffset": false,
     "uevr_input_config_aimCamera": "Pawn.FirstPersonCamera",
-    "uevr_input_config_aimMethod": 3,
+    "uevr_input_config_aimMethod": 4,
     "uevr_input_config_eyeOffset": 0.15700000524520874,
     "uevr_input_config_fixSpatialAudio": true,
     "uevr_input_config_headOffset": [
