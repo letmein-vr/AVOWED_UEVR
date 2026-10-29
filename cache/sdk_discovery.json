@@ -1,0 +1,131 @@
+{
+  "entries": {
+    "frendertarget_vtable_indices": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "display_gamma_index": 5,
+        "render_target_texture_index": 2
+      }
+    },
+    "frhitexture_get_native_resource": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "vtable_index": 4
+      }
+    },
+    "fscene_offsets": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "frame_count_offset": 18200,
+        "get_frame_count_vtable_index": 135,
+        "increment_frame_count_vtable_index": 136,
+        "start_frame_vtable_index": 133
+      }
+    },
+    "fsceneview_constructor": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "rva": 128969872
+      }
+    },
+    "fsceneviewfamily_offsets": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "render_target_offset": 32,
+        "scene_interface_offset": 40,
+        "views_offset": 8
+      }
+    },
+    "ftexture_render_target_resource_vtable_offset": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "offset": 80
+      }
+    },
+    "ftexture_rhi_resource_offset": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "offset": 16
+      }
+    },
+    "utexture_render_resource_offset": {
+      "module": {
+        "engine_version": "",
+        "file_size": 195299448,
+        "image_size": 199241728,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Avowed\\Alabama\\Binaries\\Win64\\Avowed-Win64-Shipping.exe",
+        "time_date_stamp": 3721281246,
+        "version_ls": 131072,
+        "version_ms": 327683,
+        "write_time": 134375270929672000
+      },
+      "payload": {
+        "offset": 272
+      }
+    }
+  },
+  "schema_version": 1
+}
